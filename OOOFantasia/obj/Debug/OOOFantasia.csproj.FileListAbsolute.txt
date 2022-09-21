@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\bin\Debug\OOOFantasia.exe.config
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\bin\Debug\OOOFantasia.exe
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\bin\Debug\OOOFantasia.pdb
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.Autorization.resources
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.Properties.Resources.resources
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.exe
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.pdb
+C:\Users\Nikita\source\repos\OOOFantasia\OOOFantasia\obj\Debug\OOOFantasia.Gost.resources
